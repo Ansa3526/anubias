@@ -2,7 +2,7 @@ import Vue from 'vue';
 import App from './App.vue';
 import router from "./router";
 import Particles from "particles.vue";
-
+const someChanges = 1;
 import VueFinalModal from 'vue-final-modal';
 /*eslint-disable */
 // load global script
